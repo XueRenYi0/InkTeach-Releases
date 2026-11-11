@@ -1,0 +1,52 @@
+InkTeach 专有软件许可协议（EULA）
+InkTeach Proprietary Software Licence
+
+Copyright (C) 2026 XueRenYi0. All rights reserved.
+
+一、适用范围
+1. 本协议适用于 InkTeach 9.7.0 及之后发布的版本（“本软件”）。
+2. InkTeach 9.6.0 及更早的版本仍按当时发布的 GPL-3.0 许可执行；本协议不改变已经获得的旧版本权利。
+
+二、授权
+在遵守本协议的前提下，作者授予你一项免费的、非独占的、不可转让的许可：
+1. 在你拥有或控制的设备上安装、运行本软件；
+2. 为个人学习、教学或商业目的使用本软件；
+3. 将本软件的**安装包原样**提供给他人（不得修改、不得收费、不得移除版权与许可声明）。
+
+三、限制
+未经作者书面许可，你不得：
+1. 修改、翻译、反向工程、反编译、反汇编本软件，或试图获取其源代码；
+2. 将本软件或其任何部分再许可、出售、出租、出借、分发衍生作品；
+3. 移除或更改本软件中的版权、商标、许可或其他权利声明；
+4. 将本软件用于违法用途，或用于侵犯他人权益的场景。
+
+四、源代码
+本软件的源代码不公开。本协议不授予你任何获取源代码的权利。
+
+五、第三方组件
+本软件包含第三方开源组件（如 Vortice、SkiaSharp、CSharpMath、pdfium 等），
+这些组件分别适用其自身的许可条款；相关声明随安装包提供（见 THIRD-PARTY-NOTICES.md
+与 pdfium-licenses/）。第三方许可不影响本软件其余部分的专有性质。
+
+六、免责声明
+本软件按“现状”提供，不附带任何明示或默示的担保，包括但不限于适销性、特定用途适用性
+和不侵权担保。在适用法律允许的最大范围内，作者不对任何直接、间接、偶然、特殊或后果性
+损害承担责任（包括数据丢失、教学事故、利润损失等）。
+
+七、终止
+你违反本协议时，本许可自动终止；终止后应立即停止使用并删除本软件的全部副本。
+
+八、其他
+本协议受中华人民共和国法律管辖。本协议未尽事宜，以作者另行发布的书面说明为准。
+
+---
+
+English summary (for reference only; the Chinese text prevails):
+
+InkTeach 9.7.0 and later are proprietary software. You may install and use the unmodified
+binary free of charge for personal, educational or commercial purposes, and pass the original
+installer to others without modification or charge. You may not modify, reverse engineer,
+decompile, redistribute as part of another product, sell, sublicense, or remove notices.
+The source code is not published. Third-party open-source components remain under their own
+licences. The software is provided “AS IS”, without warranty of any kind. This licence does
+not affect rights already granted for versions 9.6.0 and earlier under GPL-3.0.
